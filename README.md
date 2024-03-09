@@ -12,5 +12,27 @@
 5.  Run in terminal `npm start`
 6.  Application will be running on `http://localhost:3000/`
 
+## For Authentication
+Use these
+
+auth "student"
+roll "B190492CS"
+email "prince_b190492cs@nitc.ac.in"
+password "prince"
+
+auth "student"
+roll "B190553CS"
+email "pranit_b190553cs@nitc.ac.in"
+password "Pranit@mr03"
+
+auth "dept"
+email "jitu@gmail.com"
+password "jitu"
+department "Anti Ragging"
+
+auth "admin"
+email "sumedh@gmail.com"
+password "sumedh"
+
 ## Index file
 `index.js`
